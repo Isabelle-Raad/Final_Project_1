@@ -22,7 +22,7 @@ https://github.com/MuseumofModernArt/collection/tree/master
 2. What timeframe experienced most increased value of art? 
    - Use algorithm to adjust for inflation (bar chart matplotlib)... most work comes from inflation-adjustment algorithm and finding current and past art values (Raad)
     
-## Deliverables 1:   
+## Deliverable 1:   
     
 ### Quick DBD
 We started our project by using Quick DBD to create a diagram of database.
