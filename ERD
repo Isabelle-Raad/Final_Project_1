@@ -1,0 +1,43 @@
+Artists
+-
+ConstituentID varchar pk
+DisplayName varchar
+ArtistBio varchar
+Nationality varchar
+Gender varchar
+BeginDate date
+EndDate date
+Wiki_QID varchar
+ULAN int
+
+Artworks
+-
+Title varchar pk
+Artist varchar fk - Artists.DisplayName
+ConstituentID varchar fk - Artists.ConstituentID
+ArtistBio varchar fk - Artists.ArtistBio
+Nationality varchar fk - Artists.Nationality
+BeginDate date fk - Artists.BeginDate
+EndDate date fk -Artists.EndDate
+Gender varchar fk - Artists.Gender
+Date date
+Medium varchar
+Dimensions int
+CreditLine varchar
+AccessionNumber int
+Classification varchar
+Department varchar
+DateAcquired date
+Cataloged varchar
+ObjectID int
+URL varchar
+ThumbnailURL varchar
+Circumference int
+Depth int
+Diameter int
+Height int
+Length int
+Weight int
+Width int
+Seat_Height int
+Duration int
