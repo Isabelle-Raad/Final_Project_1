@@ -5,8 +5,8 @@ DisplayName varchar
 ArtistBio varchar
 Nationality varchar
 Gender varchar
-BeginDate date
-EndDate date
+BeginDate int
+EndDate int
 Wiki_QID varchar
 ULAN int
 
@@ -17,10 +17,10 @@ Artist varchar fk - Artists.DisplayName
 ConstituentID varchar fk - Artists.ConstituentID
 ArtistBio varchar fk - Artists.ArtistBio
 Nationality varchar fk - Artists.Nationality
-BeginDate date fk - Artists.BeginDate
-EndDate date fk -Artists.EndDate
+BeginDate int fk - Artists.BeginDate
+EndDate int fk -Artists.EndDate
 Gender varchar fk - Artists.Gender
-Date date
+Date int
 Medium varchar
 Dimensions int
 CreditLine varchar
