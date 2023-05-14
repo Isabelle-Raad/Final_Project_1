@@ -13,7 +13,7 @@ https://github.com/MuseumofModernArt/collection/tree/master
    - GitBash
    - GitHub
    - Python
-   - 
+   - Tableau
 ## Questions to Answer:
 1. What conditions do most artists come from? Time, nationality, region
    - Nationality: Matplotlib stuff, pie charts (Team effort)
