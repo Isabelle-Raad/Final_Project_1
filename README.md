@@ -27,11 +27,11 @@ https://github.com/MuseumofModernArt/collection/tree/master
 ### Quick DBD
 We started our project by using Quick DBD to create a diagram of database.
 
-Image of diagram
+<img width="233" alt="ERD" src="https://github.com/Locdintech/UFOs/assets/116410666/c782f138-1e57-4182-b5c5-6a71f01903b8">
 
 ### PostgreSQL
 We then used the diagram as a guide to create our database in Postgre SQL
 
-![Artists Table](https://github.com/Locdintech/Neural_Network_Charity_Analysis/assets/116410666/341ed002-ac1f-4712-82f4-4fa311147e03)
+![Artists Table](https://github.com/Locdintech/UFOs/assets/116410666/350592c6-5aeb-4936-a8ab-ab217019af1a)
 
 ![Artworks Table](https://github.com/Locdintech/UFOs/assets/116410666/bc2816fa-2706-400b-aa88-113e5c34bf3d)
