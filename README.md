@@ -34,4 +34,4 @@ We then used the diagram as a guide to create our database in Postgre SQL
 
 ![Artists Table](https://github.com/Locdintech/Neural_Network_Charity_Analysis/assets/116410666/341ed002-ac1f-4712-82f4-4fa311147e03)
 
-Image for ArtWork table
+![Artworks Table](https://github.com/Locdintech/UFOs/assets/116410666/bc2816fa-2706-400b-aa88-113e5c34bf3d)
