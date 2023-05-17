@@ -32,7 +32,7 @@ We started our project by using Quick DBD to create a diagram of database.
 ### PostgreSQL
 We then used the diagram as a guide to create our database in PostgreSQL
 
-![Artists Table](https://github.com/Locdintech/UFOs/assets/116410666/350592c6-5aeb-4936-a8ab-ab217019af1a)
+![Artists Table](https://github.com/Locdintech/UFOs/assets/116410666/acecdea5-8609-47f3-9e0d-dbc4c2ff96f4)
 
 ![Artworks Table](https://github.com/Locdintech/UFOs/assets/116410666/bc2816fa-2706-400b-aa88-113e5c34bf3d)
 
