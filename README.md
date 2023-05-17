@@ -30,7 +30,7 @@ We started our project by using Quick DBD to create a diagram of database.
 <img width="233" alt="ERD" src="https://github.com/Locdintech/UFOs/assets/116410666/c782f138-1e57-4182-b5c5-6a71f01903b8">
 
 ### PostgreSQL
-We then used the diagram as a guide to create our database in Postgre SQL
+We then used the diagram as a guide to create our database in PostgreSQL
 
 ![Artists Table](https://github.com/Locdintech/UFOs/assets/116410666/350592c6-5aeb-4936-a8ab-ab217019af1a)
 
@@ -38,4 +38,11 @@ We then used the diagram as a guide to create our database in Postgre SQL
 
 ## Deliverable 2:   
 Working on Tableau to create a hotspot map
-Having issues with the data, needed to be cleaned
+Having issues with the artworks data, Isabelle's working through cleaning it again
+
+### PostgreSQL
+I loaded the csv data into the Artist table in PostgreSQL
+
+![Artist Table Loaded](https://github.com/Locdintech/UFOs/assets/116410666/0b1da34b-21a8-447b-97a1-893a083d5f20)
+
+PENDING LOADING CSV DATA INTO ARTWORKS TABLE DUE TO ERRORS FOUND IN DATA
