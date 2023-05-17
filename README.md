@@ -38,3 +38,4 @@ We then used the diagram as a guide to create our database in Postgre SQL
 
 ## Deliverable 2:   
 Working on Tableau to create a hotspot map
+Having issues with the data, needed to be cleaned
