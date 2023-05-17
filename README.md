@@ -37,3 +37,4 @@ We then used the diagram as a guide to create our database in Postgre SQL
 ![Artworks Table](https://github.com/Locdintech/UFOs/assets/116410666/bc2816fa-2706-400b-aa88-113e5c34bf3d)
 
 ## Deliverable 2:   
+Working on Tableau to create a hotspot map
