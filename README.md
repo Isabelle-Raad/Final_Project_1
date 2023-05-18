@@ -46,3 +46,5 @@ I loaded the csv data into the Artist table in PostgreSQL
 ![Artist Table Loaded](https://github.com/Locdintech/UFOs/assets/116410666/0b1da34b-21a8-447b-97a1-893a083d5f20)
 
 PENDING LOADING CSV DATA INTO ARTWORKS TABLE DUE TO ERRORS FOUND IN DATA
+Finished with Tableau visualization 
+
