@@ -48,7 +48,7 @@ I loaded the csv data into the Artist table in PostgreSQL
 PENDING LOADING CSV DATA INTO ARTWORKS TABLE DUE TO ERRORS FOUND IN DATA
 Finished with Tableau visualization 
 
-Tableau Analysis 
+### Tableau Analysis 
 For this visualization, I started by counting the number of Artists.
  ![image](https://github.com/Isabelle-Raad/Final_Project_1/assets/121005128/2e4924b2-388a-4640-ba23-8471a4e0bcb1)
 
