@@ -31,9 +31,9 @@ We started our project by using Quick DBD to create a diagram of database.
 ### PostgreSQL
 We then used the diagram as a guide to create our database in PostgreSQL
 
-![Artists Table](https://github.com/Locdintech/UFOs/assets/116410666/acecdea5-8609-47f3-9e0d-dbc4c2ff96f4)
+![Artists Table](https://github.com/Locdintech/UFOs/assets/116410666/0fce459e-5f83-49e2-92a1-13ce1deb9297)
 
-![Artworks Table](https://github.com/Locdintech/UFOs/assets/116410666/a01e93e9-db0e-4130-9501-5fd914614d90)
+![Artworks Table](https://github.com/Locdintech/UFOs/assets/116410666/8bb46e2e-51bc-4ebf-85c7-7c3ae48a8e11)
 
 ## Deliverable 2:   
 Working on Tableau to create a hotspot map
@@ -42,9 +42,9 @@ Having issues with the artworks data, Isabelle's working through cleaning it aga
 ### PostgreSQL
 I loaded the csv data into the Artist table in PostgreSQL
 
-![Artist Table Loaded](https://github.com/Locdintech/UFOs/assets/116410666/0b1da34b-21a8-447b-97a1-893a083d5f20)
+![Artist Table Loaded](https://github.com/Locdintech/UFOs/assets/116410666/771ae8f3-d136-4377-91f1-f7e0900f4444)
 
-![Artworks Table Loaded](https://github.com/Locdintech/UFOs/assets/116410666/e6b4b885-b6e9-47e3-b3fb-a3ba728b0c2e)
+![Artworks Table Loaded](https://github.com/Locdintech/UFOs/assets/116410666/01edad83-0a5c-40ee-8d4e-2cd330891e02)
 
 
 
