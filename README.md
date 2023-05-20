@@ -76,11 +76,11 @@ Here is the type of art. The dominant type of art is Drawings and Prints, then P
 
 ### Supervised ML Algorithm 
    - Naive RandomOverSampling
-   - 
+   
    ![Naive Over Sample](https://github.com/Locdintech/UFOs/assets/116410666/855c4492-7c8e-4e66-92d6-e8cd7f24ba92)
   
    - Balanced Accuracy Score (.65 or 65%)
-   - 
+   
    ![Balanced Accuracy Score](https://github.com/Locdintech/UFOs/assets/116410666/eda8cf0c-398f-4cc2-93bf-da31042f6eef)
    
    - Confusion Matrix
