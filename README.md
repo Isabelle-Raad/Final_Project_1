@@ -96,3 +96,6 @@ Ester's finalizing the dashboard in Tableau
  
 Here are the links to the Tableau dashboard
 https://public.tableau.com/app/profile/ester.dawkins/viz/FinalProject1Story1/Story1?publish=yes
+
+Link to Tableau dashboard 2 
+https://public.tableau.com/app/profile/ester.dawkins/viz/FinalProject1Story2/Story2?publish=yes
