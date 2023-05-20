@@ -65,4 +65,14 @@ Here is the type of art. The dominant type of art is Drawings and Prints, then P
  ![image](https://github.com/Isabelle-Raad/Final_Project_1/assets/121005128/317a40ea-d82b-4ebe-8b4f-ab93197b9434)
 
 
+### Checking for relationships
+% of female artists per time period
+![% Female](https://github.com/Locdintech/UFOs/assets/116410666/31d5fa87-57b2-4ef1-a878-0dc59eadcc94)
+
+% of male artists per time period
+![% Male](https://github.com/Locdintech/UFOs/assets/116410666/3d29fc43-093a-4f05-b04c-35d41456471e)
+
+
+## Deliverable 3:   
+
  
