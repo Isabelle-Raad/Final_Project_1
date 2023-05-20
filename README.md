@@ -94,3 +94,5 @@ Here is the type of art. The dominant type of art is Drawings and Prints, then P
 
 Ester's finalizing the dashboard in Tableau 
  
+Here are the links to the Tableau dashboard
+https://public.tableau.com/app/profile/ester.dawkins/viz/FinalProject1Story1/Story1?publish=yes
