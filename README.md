@@ -16,17 +16,21 @@ https://github.com/MuseumofModernArt/collection/tree/master
    - Tableau
 ## Questions to Answer:
 1. What conditions do most artists come from? Time, nationality, region
-Tableau stats visualizations - Ester
+   - Tableau stats visualizations - Ester
 
-2. What countries can expect an increase of percentage of female artists? (Raad)
-	Machine learning linear regression
-    
+2. What countries can expect an increase of percentage of female artists?
+   - Linear regression - Raad
+   
+3. Predict the liklihood of a piece of artwork being cataloged.
+   - Supervised ML - Inina
+
+
 ## Deliverable 1:   
     
 ### Quick DBD
 We started our project by using Quick DBD to create a diagram of database.
 
-<img width="233" alt="ERD" src="https://github.com/Locdintech/UFOs/assets/116410666/c782f138-1e57-4182-b5c5-6a71f01903b8">
+<img width="233" alt="ERD" src="https://github.com/Locdintech/UFOs/assets/116410666/89ade650-71df-4391-a2c4-8ab691e32b39">
 
 ### PostgreSQL
 We then used the diagram as a guide to create our database in PostgreSQL
@@ -92,8 +96,6 @@ Here is the type of art. The dominant type of art is Drawings and Prints, then P
 
 ## Deliverable 3:   
 
-Ester's finalizing the dashboard in Tableau 
- 
 Here are the links to the Tableau dashboard
 https://public.tableau.com/app/profile/ester.dawkins/viz/FinalProject1Story1/Story1?publish=yes
 
