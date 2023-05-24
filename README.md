@@ -104,6 +104,6 @@ https://public.tableau.com/app/profile/ester.dawkins/viz/FinalProject1Story2/Sto
 
 Addded Tableau in the technologies used. 
 
-
+Was getting ready to create a RDS in AWS to store our data, but we decided not to use AWS.
 
 
