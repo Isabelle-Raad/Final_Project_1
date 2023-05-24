@@ -55,10 +55,10 @@ I loaded the csv data into the Artist table in PostgreSQL
 For this visualization, I started by counting the number of Artists.
  ![image](https://github.com/Isabelle-Raad/Final_Project_1/assets/121005128/2e4924b2-388a-4640-ba23-8471a4e0bcb1)
 
-Then I looked at the gender by percentage. We can see that there are more male artists than female.
+Then I looked at the gender by percentage. We can see that there are more male artists than female Artists.
  ![image](https://github.com/Isabelle-Raad/Final_Project_1/assets/121005128/54e81d01-8198-4e97-b26a-a342b4208c8c)
 
-Then I wanted to create a map that shows the location of all the artists’ nationalities. Since I did not have the longitude nor the latitude in my dataset, I had to create my own. To do this, I clicked on Nationality in the dataset, clicked on geographic role then country/region. 
+Then, I wanted to create a map that shows the location of all the artists’ nationalities. Since I did not have the longitude or the latitude in my dataset, I had to create my own. To do this, I clicked on Nationality in the dataset, clicked on geographic role then country/region. 
  ![image](https://github.com/Isabelle-Raad/Final_Project_1/assets/121005128/f6cb704e-1eca-4142-ad9b-608474dab23e)
 
 Here is the number of Artists by nationality. We can clearly see that there are more American Artists followed by French and Germans.
