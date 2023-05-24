@@ -41,7 +41,6 @@ We then used the diagram as a guide to create our database in PostgreSQL
 
 ## Deliverable 2:   
 Working on Tableau to create a hotspot map
-Having issues with the artworks data, Isabelle's working through cleaning it again
 
 ### PostgreSQL
 I loaded the csv data into the Artist table in PostgreSQL
