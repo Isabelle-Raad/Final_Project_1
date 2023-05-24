@@ -86,6 +86,8 @@ Here is the type of art. The dominant type of art is Drawings and Prints, then P
    
    ![Balanced Accuracy Score](https://github.com/Locdintech/UFOs/assets/116410666/eda8cf0c-398f-4cc2-93bf-da31042f6eef)
    
+   Added Tableau in technologies used
+   
    - Confusion Matrix
    
    ![Confusion Matrix](https://github.com/Locdintech/UFOs/assets/116410666/cf52d879-2669-4756-8d37-956a3abd692d)
