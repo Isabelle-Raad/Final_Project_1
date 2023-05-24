@@ -86,7 +86,6 @@ Here is the type of art. The dominant type of art is Drawings and Prints, then P
    
    ![Balanced Accuracy Score](https://github.com/Locdintech/UFOs/assets/116410666/eda8cf0c-398f-4cc2-93bf-da31042f6eef)
    
-   Added Tableau in technologies used
    
    - Confusion Matrix
    
@@ -102,3 +101,9 @@ https://public.tableau.com/app/profile/ester.dawkins/viz/FinalProject1Story1/Sto
 
 Link to Tableau dashboard 2 
 https://public.tableau.com/app/profile/ester.dawkins/viz/FinalProject1Story2/Story2?publish=yes
+
+Addded Tableau in the technologies used. 
+
+
+
+
