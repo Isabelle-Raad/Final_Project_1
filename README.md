@@ -102,8 +102,6 @@ https://public.tableau.com/app/profile/ester.dawkins/viz/FinalProject1Story1/Sto
 Link to Tableau dashboard 2 
 https://public.tableau.com/app/profile/ester.dawkins/viz/FinalProject1Story2/Story2?publish=yes
 
-Addded Tableau in the technologies used. 
-
 Was getting ready to create a RDS in AWS to store our data, but we decided not to use AWS.
 
 
