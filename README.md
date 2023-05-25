@@ -104,4 +104,7 @@ https://public.tableau.com/app/profile/ester.dawkins/viz/FinalProject1Story2/Sto
 
 Was getting ready to create a RDS in AWS to store our data, but we decided not to use AWS.
 
+Added some more Tableau visualization
+![image](https://github.com/Isabelle-Raad/Final_Project_1/assets/121005128/6e48d65c-ff86-43b9-9268-d031217de2cd)
+![image](https://github.com/Isabelle-Raad/Final_Project_1/assets/121005128/25dd1e73-b7b0-4002-a5dc-8fde0643dd7d)
 
