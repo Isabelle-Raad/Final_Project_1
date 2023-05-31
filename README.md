@@ -101,5 +101,3 @@ https://public.tableau.com/app/profile/ester.dawkins/viz/FinalProject1Story1/Sto
 
 Link to Tableau dashboard 2 
 https://public.tableau.com/app/profile/ester.dawkins/viz/FinalProject1Story2/Story2?publish=yes
-
-Tableau dashboard 2 was missing a picture, just added it. 
