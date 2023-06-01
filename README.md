@@ -9,7 +9,7 @@ https://github.com/MuseumofModernArt/collection/tree/master
 ### Technologies Used
    - PostgreSQL
    - Quick DBD
-   - Juypter Notebook
+   - Jupyter Notebook
    - GitBash
    - GitHub
    - Python
